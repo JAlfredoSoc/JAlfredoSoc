@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Alfredo Maestre
+# 👋 Hola, soy Jose Alfredo
 
 🔐 **Aspirante a Analista SOC | Ciberseguridad | Blue Team**
 
