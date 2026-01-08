@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy José Alfredo Maestre
 
-<!--
-**JAlfredoSoc/JAlfredoSoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Aspirante a Analista SOC | Ciberseguridad | Blue Team**
 
-Here are some ideas to get you started:
+Soy estudiante de **Ingeniería de Sistemas** con interés en **ciberseguridad**, especialmente en el área de **Security Operations Center (SOC)**. Me enfoco en la detección, análisis y respuesta a incidentes de seguridad, así como en el aprendizaje continuo de herramientas defensivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Perfil Profesional
+
+* 🎓 Estudiante de Ingeniería de Sistemas
+* 🔐 Enfocado en **Ciberseguridad – SOC / Blue Team**
+* 🧠 Interés en monitoreo, análisis de eventos y respuesta a incidentes
+* 🚀 Iniciando desarrollo de proyectos prácticos orientados a SOC
+
+---
+
+## 🧰 Herramientas SOC
+
+* 🐧 **Linux** 
+* 🐉 **Kali Linux**
+* 📊 **SIEM** 
+* 🔎 **Wireshark**
+* 🧪 **Nmap**
+* 🛠️ **Git & GitHub**
+* 💻 **Visual Studio Code**
+
+---
+
+⭐ *Perfil en crecimiento. Enfocado en aprendizaje práctico y desarrollo de proyectos SOC.*
